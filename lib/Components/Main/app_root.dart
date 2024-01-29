@@ -15,7 +15,6 @@ class AppRoot {
     final appRootNetwork = AppRootNetwork(network: network);
     final router = AppRouterImpl(network: appRootNetwork);
     
-    print("Did init App Root.");
     return AppRoot._(router);
   }
   
