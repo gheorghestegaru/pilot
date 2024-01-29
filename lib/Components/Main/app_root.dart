@@ -1,6 +1,6 @@
 import 'package:pilot/Components/Main/Adapters/Network/app_root_network.dart';
 import 'package:pilot/Components/Main/DependencyProvider/app_root_dependency_provider_interface.dart';
-import 'package:pilot/Components/Main/Flows/Main/Router/app_router.dart';
+import 'package:pilot/Components/Main/Features/Main/Router/app_router.dart';
 import 'package:pilot/Components/Network/network.dart';
 
 class AppRoot {
@@ -15,7 +15,6 @@ class AppRoot {
     final appRootNetwork = AppRootNetwork(network: network);
     final router = AppRouterImpl(network: appRootNetwork);
     
-    print("Did init App Root.");
     return AppRoot._(router);
   }
   

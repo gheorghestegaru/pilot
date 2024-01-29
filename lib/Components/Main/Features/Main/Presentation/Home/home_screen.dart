@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:pilot/Components/Main/Flows/Main/Screens/Home/home_screen_view_model.dart';
+import 'package:pilot/Components/Main/Features/Main/Presentation/Home/home_screen_view_model.dart';
 
 class HomeScreen extends StatefulWidget {
   const HomeScreen({super.key, required this.viewModel});
