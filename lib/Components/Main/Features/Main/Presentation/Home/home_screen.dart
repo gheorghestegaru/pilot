@@ -15,11 +15,10 @@ class _HomeScreenState extends State<HomeScreen> {
   String? firstRecipeTitle;
 
   Future<void> _getRecipes(BuildContext context) async {
-    print('Get Recipes...');
-    final response = await widget.viewModel.network.executeRandomRecipesGetRequest();
+    final firstRecipe = await widget.viewModel.getFirstRecipe();
 
     setState(() {
-      firstRecipeTitle = response?.first.title;
+      firstRecipeTitle = firstRecipe;
     });
   }
 

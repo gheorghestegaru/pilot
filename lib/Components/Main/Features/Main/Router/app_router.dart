@@ -5,7 +5,7 @@ import 'package:pilot/Components/Main/Features/Main/Presentation/Home/home_scree
 import 'package:pilot/Components/Main/Features/Main/Presentation/Home/home_screen_view_model.dart';
 
 abstract class AppRouter {
-  Widget home();
+  HomeScreen home();
 }
 
 class AppRouterImpl extends AppRouter {
@@ -14,7 +14,7 @@ class AppRouterImpl extends AppRouter {
   AppRouterImpl({required this.network});
 
   @override
-  Widget home() {
+  HomeScreen home() {
     final model = HomeScreenModel();
     final viewModel = HomeScreenViewModel(network: network, model: model);
     final view = HomeScreen(viewModel: viewModel);

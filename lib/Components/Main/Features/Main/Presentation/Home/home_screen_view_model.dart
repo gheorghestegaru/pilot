@@ -6,4 +6,12 @@ class HomeScreenViewModel {
   final HomeScreenModel model;
   final AppRootNetwork network;
   
+  Future<String> getFirstRecipe() async {
+    final response = await network.executeRandomRecipesGetRequest();
+    final title = response?.first.title;
+    if (title != null) {
+      return title;
+    }
+    return "Error, no recipe found!";
+  }
 }

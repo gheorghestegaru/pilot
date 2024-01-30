@@ -1,0 +1,999 @@
+{
+    "recipes": [
+        {
+            "vegetarian": false,
+            "vegan": false,
+            "glutenFree": false,
+            "dairyFree": true,
+            "veryHealthy": false,
+            "cheap": false,
+            "veryPopular": false,
+            "sustainable": false,
+            "lowFodmap": false,
+            "weightWatcherSmartPoints": 20,
+            "gaps": "no",
+            "preparationMinutes": -1,
+            "cookingMinutes": -1,
+            "aggregateLikes": 4,
+            "healthScore": 46,
+            "creditsText": "Foodista.com – The Cooking Encyclopedia Everyone Can Edit",
+            "license": "CC BY 3.0",
+            "sourceName": "Foodista",
+            "pricePerServing": 559.61,
+            "extendedIngredients": [
+                {
+                    "id": 10123,
+                    "aisle": "Meat",
+                    "image": "raw-bacon.png",
+                    "consistency": "SOLID",
+                    "name": "bacon",
+                    "nameClean": "applewood smoked bacon",
+                    "original": "½ lb. bacon",
+                    "originalName": "bacon",
+                    "amount": 0.5,
+                    "unit": "lb",
+                    "meta": [],
+                    "measures": {
+                        "us": {
+                            "amount": 0.5,
+                            "unitShort": "lb",
+                            "unitLong": "pounds"
+                        },
+                        "metric": {
+                            "amount": 226.796,
+                            "unitShort": "g",
+                            "unitLong": "grams"
+                        }
+                    }
+                },
+                {
+                    "id": 4053,
+                    "aisle": "Oil, Vinegar, Salad Dressing",
+                    "image": "olive-oil.jpg",
+                    "consistency": "SOLID",
+                    "name": "olive oil",
+                    "nameClean": "olive oil",
+                    "original": "1 Tbsp. olive oil",
+                    "originalName": "olive oil",
+                    "amount": 1.0,
+                    "unit": "Tbsp",
+                    "meta": [],
+                    "measures": {
+                        "us": {
+                            "amount": 1.0,
+                            "unitShort": "Tbsp",
+                            "unitLong": "Tbsp"
+                        },
+                        "metric": {
+                            "amount": 1.0,
+                            "unitShort": "Tbsp",
+                            "unitLong": "Tbsp"
+                        }
+                    }
+                },
+                {
+                    "id": 10023618,
+                    "aisle": "Meat",
+                    "image": "beef-cubes-raw.png",
+                    "consistency": "SOLID",
+                    "name": "beef stew meat",
+                    "nameClean": "beef cubes",
+                    "original": "2 lbs. beef stew meat (like chuck or brisket)",
+                    "originalName": "beef stew meat (like chuck or brisket)",
+                    "amount": 2.0,
+                    "unit": "lbs",
+                    "meta": [
+                        "(like chuck or brisket)"
+                    ],
+                    "measures": {
+                        "us": {
+                            "amount": 2.0,
+                            "unitShort": "lb",
+                            "unitLong": "pounds"
+                        },
+                        "metric": {
+                            "amount": 907.185,
+                            "unitShort": "g",
+                            "unitLong": "grams"
+                        }
+                    }
+                },
+                {
+                    "id": 11215,
+                    "aisle": "Produce",
+                    "image": "garlic.png",
+                    "consistency": "SOLID",
+                    "name": "garlic",
+                    "nameClean": "garlic",
+                    "original": "2 cloves garlic, roughly chopped",
+                    "originalName": "garlic, roughly chopped",
+                    "amount": 2.0,
+                    "unit": "cloves",
+                    "meta": [
+                        "roughly chopped"
+                    ],
+                    "measures": {
+                        "us": {
+                            "amount": 2.0,
+                            "unitShort": "cloves",
+                            "unitLong": "cloves"
+                        },
+                        "metric": {
+                            "amount": 2.0,
+                            "unitShort": "cloves",
+                            "unitLong": "cloves"
+                        }
+                    }
+                },
+                {
+                    "id": 11282,
+                    "aisle": "Produce",
+                    "image": "brown-onion.png",
+                    "consistency": "SOLID",
+                    "name": "onion",
+                    "nameClean": "onion",
+                    "original": "1 onion, diced",
+                    "originalName": "onion, diced",
+                    "amount": 1.0,
+                    "unit": "",
+                    "meta": [
+                        "diced"
+                    ],
+                    "measures": {
+                        "us": {
+                            "amount": 1.0,
+                            "unitShort": "",
+                            "unitLong": ""
+                        },
+                        "metric": {
+                            "amount": 1.0,
+                            "unitShort": "",
+                            "unitLong": ""
+                        }
+                    }
+                },
+                {
+                    "id": 1012049,
+                    "aisle": "Produce",
+                    "image": "thyme.jpg",
+                    "consistency": "SOLID",
+                    "name": "thyme",
+                    "nameClean": "fresh thyme",
+                    "original": "3 sprigs fresh thyme",
+                    "originalName": "fresh thyme",
+                    "amount": 3.0,
+                    "unit": "sprigs",
+                    "meta": [
+                        "fresh"
+                    ],
+                    "measures": {
+                        "us": {
+                            "amount": 3.0,
+                            "unitShort": "sprigs",
+                            "unitLong": "sprigs"
+                        },
+                        "metric": {
+                            "amount": 3.0,
+                            "unitShort": "sprigs",
+                            "unitLong": "sprigs"
+                        }
+                    }
+                },
+                {
+                    "id": 2004,
+                    "aisle": "Produce",
+                    "image": "bay-leaves.jpg",
+                    "consistency": "SOLID",
+                    "name": "bay leaves",
+                    "nameClean": "bay leaves",
+                    "original": "3 bay leaves",
+                    "originalName": "bay leaves",
+                    "amount": 3.0,
+                    "unit": "",
+                    "meta": [],
+                    "measures": {
+                        "us": {
+                            "amount": 3.0,
+                            "unitShort": "",
+                            "unitLong": ""
+                        },
+                        "metric": {
+                            "amount": 3.0,
+                            "unitShort": "",
+                            "unitLong": ""
+                        }
+                    }
+                },
+                {
+                    "id": 11297,
+                    "aisle": "Spices and Seasonings",
+                    "image": "parsley.jpg",
+                    "consistency": "SOLID",
+                    "name": "parsley",
+                    "nameClean": "parsley",
+                    "original": "½ cup chopped parsley",
+                    "originalName": "chopped parsley",
+                    "amount": 0.5,
+                    "unit": "cup",
+                    "meta": [
+                        "chopped"
+                    ],
+                    "measures": {
+                        "us": {
+                            "amount": 0.5,
+                            "unitShort": "cups",
+                            "unitLong": "cups"
+                        },
+                        "metric": {
+                            "amount": 30.0,
+                            "unitShort": "g",
+                            "unitLong": "grams"
+                        }
+                    }
+                },
+                {
+                    "id": 10111282,
+                    "aisle": "Produce",
+                    "image": "pearl-onions.png",
+                    "consistency": "SOLID",
+                    "name": "pearl onions",
+                    "nameClean": "pearl onion",
+                    "original": "2 cups pearl onions, peeled",
+                    "originalName": "pearl onions, peeled",
+                    "amount": 2.0,
+                    "unit": "cups",
+                    "meta": [
+                        "peeled"
+                    ],
+                    "measures": {
+                        "us": {
+                            "amount": 2.0,
+                            "unitShort": "cups",
+                            "unitLong": "cups"
+                        },
+                        "metric": {
+                            "amount": 473.176,
+                            "unitShort": "g",
+                            "unitLong": "grams"
+                        }
+                    }
+                },
+                {
+                    "id": 11260,
+                    "aisle": "Produce",
+                    "image": "mushrooms.png",
+                    "consistency": "SOLID",
+                    "name": "button mushrooms",
+                    "nameClean": "fresh mushrooms",
+                    "original": "2 cups button mushrooms, halved",
+                    "originalName": "button mushrooms, halved",
+                    "amount": 2.0,
+                    "unit": "cups",
+                    "meta": [
+                        "halved"
+                    ],
+                    "measures": {
+                        "us": {
+                            "amount": 2.0,
+                            "unitShort": "cups",
+                            "unitLong": "cups"
+                        },
+                        "metric": {
+                            "amount": 192.0,
+                            "unitShort": "ml",
+                            "unitLong": "milliliters"
+                        }
+                    }
+                },
+                {
+                    "id": 11260,
+                    "aisle": "Produce",
+                    "image": "mushrooms-white.jpg",
+                    "consistency": "SOLID",
+                    "name": "button mushrooms",
+                    "nameClean": "fresh mushrooms",
+                    "original": "2 cups button mushrooms, halved",
+                    "originalName": "button mushrooms, halved",
+                    "amount": 2.0,
+                    "unit": "cups",
+                    "meta": [
+                        "halved"
+                    ],
+                    "measures": {
+                        "us": {
+                            "amount": 2.0,
+                            "unitShort": "cups",
+                            "unitLong": "cups"
+                        },
+                        "metric": {
+                            "amount": 192.0,
+                            "unitShort": "ml",
+                            "unitLong": "milliliters"
+                        }
+                    }
+                },
+                {
+                    "id": 11124,
+                    "aisle": "Produce",
+                    "image": "sliced-carrot.png",
+                    "consistency": "SOLID",
+                    "name": "carrot",
+                    "nameClean": "carrot",
+                    "original": "1 carrot, peeled and chopped",
+                    "originalName": "carrot, peeled and chopped",
+                    "amount": 1.0,
+                    "unit": "",
+                    "meta": [
+                        "peeled",
+                        "chopped"
+                    ],
+                    "measures": {
+                        "us": {
+                            "amount": 1.0,
+                            "unitShort": "",
+                            "unitLong": ""
+                        },
+                        "metric": {
+                            "amount": 1.0,
+                            "unitShort": "",
+                            "unitLong": ""
+                        }
+                    }
+                },
+                {
+                    "id": 14099,
+                    "aisle": "Alcoholic Beverages",
+                    "image": "red-wine.jpg",
+                    "consistency": "LIQUID",
+                    "name": "red wine",
+                    "nameClean": "pinot noir",
+                    "original": "1 cup red wine, preferably Pinot Noir",
+                    "originalName": "red wine, preferably Pinot Noir",
+                    "amount": 1.0,
+                    "unit": "cup",
+                    "meta": [],
+                    "measures": {
+                        "us": {
+                            "amount": 1.0,
+                            "unitShort": "cup",
+                            "unitLong": "cup"
+                        },
+                        "metric": {
+                            "amount": 236.0,
+                            "unitShort": "ml",
+                            "unitLong": "milliliters"
+                        }
+                    }
+                },
+                {
+                    "id": 6008,
+                    "aisle": "Canned and Jarred",
+                    "image": "beef-broth.png",
+                    "consistency": "LIQUID",
+                    "name": "beef broth",
+                    "nameClean": "beef broth",
+                    "original": "2 cups beef broth",
+                    "originalName": "beef broth",
+                    "amount": 2.0,
+                    "unit": "cups",
+                    "meta": [],
+                    "measures": {
+                        "us": {
+                            "amount": 2.0,
+                            "unitShort": "cups",
+                            "unitLong": "cups"
+                        },
+                        "metric": {
+                            "amount": 480.0,
+                            "unitShort": "ml",
+                            "unitLong": "milliliters"
+                        }
+                    }
+                },
+                {
+                    "id": 20081,
+                    "aisle": "Baking",
+                    "image": "flour.png",
+                    "consistency": "SOLID",
+                    "name": "all purpose flour",
+                    "nameClean": "wheat flour",
+                    "original": "2 Tbsp. all purpose flour",
+                    "originalName": "all purpose flour",
+                    "amount": 2.0,
+                    "unit": "Tbsp",
+                    "meta": [],
+                    "measures": {
+                        "us": {
+                            "amount": 2.0,
+                            "unitShort": "Tbsps",
+                            "unitLong": "Tbsps"
+                        },
+                        "metric": {
+                            "amount": 2.0,
+                            "unitShort": "Tbsps",
+                            "unitLong": "Tbsps"
+                        }
+                    }
+                },
+                {
+                    "id": 1102047,
+                    "aisle": "Spices and Seasonings",
+                    "image": "salt-and-pepper.jpg",
+                    "consistency": "SOLID",
+                    "name": "salt and pepper",
+                    "nameClean": "salt and pepper",
+                    "original": "salt and pepper to taste",
+                    "originalName": "salt and pepper to taste",
+                    "amount": 4.0,
+                    "unit": "servings",
+                    "meta": [
+                        "to taste"
+                    ],
+                    "measures": {
+                        "us": {
+                            "amount": 4.0,
+                            "unitShort": "servings",
+                            "unitLong": "servings"
+                        },
+                        "metric": {
+                            "amount": 4.0,
+                            "unitShort": "servings",
+                            "unitLong": "servings"
+                        }
+                    }
+                }
+            ],
+            "id": 639571,
+            "title": "Classic Boeuf Bourguignon",
+            "readyInMinutes": 45,
+            "servings": 4,
+            "sourceUrl": "https://www.foodista.com/recipe/T4J6HH4Z/classic-boeuf-bourguignon",
+            "image": "https://spoonacular.com/recipeImages/639571-556x370.jpg",
+            "imageType": "jpg",
+            "summary": "Classic Boeuf Bourguignon takes about <b>45 minutes</b> from beginning to end. This recipe serves 4 and costs $5.6 per serving. One serving contains <b>736 calories</b>, <b>63g of protein</b>, and <b>38g of fat</b>. This recipe from Foodista requires all purpose flour, red wine, carrot, and garlic. It works well as a main course. It is a good option if you're following a <b>dairy free</b> diet. This recipe is liked by 4 foodies and cooks. Overall, this recipe earns a <b>tremendous spoonacular score of 81%</b>. Try <a href=\"https://spoonacular.com/recipes/boeuf-en-daube-classic-french-beef-burgundy-stew-bourguignon-147988\">Boeuf En Daube - Classic French Beef Burgundy Stew (Bourguignon)</a>, <a href=\"https://spoonacular.com/recipes/boeuf-bourguignon-718258\">Boeuf Bourguignon</a>, and <a href=\"https://spoonacular.com/recipes/boeuf-bourguignon-286141\">Boeuf Bourguignon</a> for similar recipes.",
+            "cuisines": [],
+            "dishTypes": [
+                "lunch",
+                "main course",
+                "main dish",
+                "dinner"
+            ],
+            "diets": [
+                "dairy free"
+            ],
+            "occasions": [],
+            "instructions": "Preheat oven to 400\nIn a large Dutch oven, heat olive oil over medium heat. Add bacon and saut for 2-3 minutes until cooked. Remove bacon with a slotted spoon and set aside.\nDry beef with a paper towel so it will brown better. Increase heat to medium high and add beef to the bacon fat. Cook for 4-5 minutes until the outside has browned. Remove beef with a slotted spoon and set aside in a separate dish.\nReturn heat to medium. Saut carrots, garlic, onions, parsley thyme and bay leaves for 2-3 minutes. Remove with a slotted spoon and set aside in a separate dish.\nAdd pearl onions and mushroom to Dutch oven and saut until onions begin to brown and mushrooms become tender. Remove with a slotted spoon and set aside in the reserved bacon dish.\nAdd beef back to the pot and dust with one tablespoon of flour. Toss to coat and sprinkle with salt and pepper. Place in the preheated oven for 4-5 minutes. This will add a nice coating to the beef.\nRemove pot from the oven and place back on the stove top. Add red wine and deglaze the pan. Pour in beef broth and bring to a simmer over medium heat. Add carrot, onion and spice mixture to the pot, reduce heat and simmer covered for one hour.\nAfter one hour add pearl onions, mushrooms and bacon to the pot. Continue to simmer until beef is tender, about an additional 30 minutes.\nWith a slotted spoon remove solids and set aside. Increase heat and bring sauce to a rapid boil. In a small bowl mix together remaining tablespoon of flour with two tablespoons of sauce. Stir until smooth and no lumps remain. Add mixture to the pot and stir constantly until sauce thickens.\nRemove bay leaves and thyme sprigs, discard. Add solids back to the pot and stir to coat evenly. Serve warm over a bed of egg noodles or rice.",
+            "analyzedInstructions": [
+                {
+                    "name": "",
+                    "steps": [
+                        {
+                            "number": 1,
+                            "step": "Preheat oven to 400",
+                            "ingredients": [],
+                            "equipment": [
+                                {
+                                    "id": 404784,
+                                    "name": "oven",
+                                    "localizedName": "oven",
+                                    "image": "oven.jpg"
+                                }
+                            ]
+                        },
+                        {
+                            "number": 2,
+                            "step": "In a large Dutch oven, heat olive oil over medium heat.",
+                            "ingredients": [
+                                {
+                                    "id": 4053,
+                                    "name": "olive oil",
+                                    "localizedName": "olive oil",
+                                    "image": "olive-oil.jpg"
+                                }
+                            ],
+                            "equipment": [
+                                {
+                                    "id": 404667,
+                                    "name": "dutch oven",
+                                    "localizedName": "dutch oven",
+                                    "image": "dutch-oven.jpg"
+                                }
+                            ]
+                        },
+                        {
+                            "number": 3,
+                            "step": "Add bacon and saut for 2-3 minutes until cooked.",
+                            "ingredients": [
+                                {
+                                    "id": 10123,
+                                    "name": "bacon",
+                                    "localizedName": "bacon",
+                                    "image": "raw-bacon.png"
+                                }
+                            ],
+                            "equipment": [],
+                            "length": {
+                                "number": 3,
+                                "unit": "minutes"
+                            }
+                        },
+                        {
+                            "number": 4,
+                            "step": "Remove bacon with a slotted spoon and set aside.",
+                            "ingredients": [
+                                {
+                                    "id": 10123,
+                                    "name": "bacon",
+                                    "localizedName": "bacon",
+                                    "image": "raw-bacon.png"
+                                }
+                            ],
+                            "equipment": [
+                                {
+                                    "id": 404636,
+                                    "name": "slotted spoon",
+                                    "localizedName": "slotted spoon",
+                                    "image": "slotted-spoon.jpg"
+                                }
+                            ]
+                        },
+                        {
+                            "number": 5,
+                            "step": "Dry beef with a paper towel so it will brown better. Increase heat to medium high and add beef to the bacon fat. Cook for 4-5 minutes until the outside has browned.",
+                            "ingredients": [
+                                {
+                                    "id": 4609,
+                                    "name": "bacon drippings",
+                                    "localizedName": "bacon drippings",
+                                    "image": "raw-bacon.png"
+                                },
+                                {
+                                    "id": 23572,
+                                    "name": "beef",
+                                    "localizedName": "beef",
+                                    "image": "beef-cubes-raw.png"
+                                }
+                            ],
+                            "equipment": [
+                                {
+                                    "id": 405895,
+                                    "name": "paper towels",
+                                    "localizedName": "paper towels",
+                                    "image": "paper-towels.jpg"
+                                }
+                            ],
+                            "length": {
+                                "number": 5,
+                                "unit": "minutes"
+                            }
+                        },
+                        {
+                            "number": 6,
+                            "step": "Remove beef with a slotted spoon and set aside in a separate dish.",
+                            "ingredients": [
+                                {
+                                    "id": 23572,
+                                    "name": "beef",
+                                    "localizedName": "beef",
+                                    "image": "beef-cubes-raw.png"
+                                }
+                            ],
+                            "equipment": [
+                                {
+                                    "id": 404636,
+                                    "name": "slotted spoon",
+                                    "localizedName": "slotted spoon",
+                                    "image": "slotted-spoon.jpg"
+                                }
+                            ]
+                        },
+                        {
+                            "number": 7,
+                            "step": "Return heat to medium. Saut carrots, garlic, onions, parsley thyme and bay leaves for 2-3 minutes.",
+                            "ingredients": [
+                                {
+                                    "id": 2004,
+                                    "name": "bay leaves",
+                                    "localizedName": "bay leaves",
+                                    "image": "bay-leaves.jpg"
+                                },
+                                {
+                                    "id": 11124,
+                                    "name": "carrot",
+                                    "localizedName": "carrot",
+                                    "image": "sliced-carrot.png"
+                                },
+                                {
+                                    "id": 11297,
+                                    "name": "parsley",
+                                    "localizedName": "parsley",
+                                    "image": "parsley.jpg"
+                                },
+                                {
+                                    "id": 11215,
+                                    "name": "garlic",
+                                    "localizedName": "garlic",
+                                    "image": "garlic.png"
+                                },
+                                {
+                                    "id": 11282,
+                                    "name": "onion",
+                                    "localizedName": "onion",
+                                    "image": "brown-onion.png"
+                                },
+                                {
+                                    "id": 2049,
+                                    "name": "thyme",
+                                    "localizedName": "thyme",
+                                    "image": "thyme.jpg"
+                                }
+                            ],
+                            "equipment": [],
+                            "length": {
+                                "number": 3,
+                                "unit": "minutes"
+                            }
+                        },
+                        {
+                            "number": 8,
+                            "step": "Remove with a slotted spoon and set aside in a separate dish.",
+                            "ingredients": [],
+                            "equipment": [
+                                {
+                                    "id": 404636,
+                                    "name": "slotted spoon",
+                                    "localizedName": "slotted spoon",
+                                    "image": "slotted-spoon.jpg"
+                                }
+                            ]
+                        },
+                        {
+                            "number": 9,
+                            "step": "Add pearl onions and mushroom to Dutch oven and saut until onions begin to brown and mushrooms become tender.",
+                            "ingredients": [
+                                {
+                                    "id": 10111282,
+                                    "name": "pearl onion",
+                                    "localizedName": "pearl onion",
+                                    "image": "pearl-onions.png"
+                                },
+                                {
+                                    "id": 11260,
+                                    "name": "mushrooms",
+                                    "localizedName": "mushrooms",
+                                    "image": "mushrooms.png"
+                                },
+                                {
+                                    "id": 11282,
+                                    "name": "onion",
+                                    "localizedName": "onion",
+                                    "image": "brown-onion.png"
+                                }
+                            ],
+                            "equipment": [
+                                {
+                                    "id": 404667,
+                                    "name": "dutch oven",
+                                    "localizedName": "dutch oven",
+                                    "image": "dutch-oven.jpg"
+                                }
+                            ]
+                        },
+                        {
+                            "number": 10,
+                            "step": "Remove with a slotted spoon and set aside in the reserved bacon dish.",
+                            "ingredients": [
+                                {
+                                    "id": 10123,
+                                    "name": "bacon",
+                                    "localizedName": "bacon",
+                                    "image": "raw-bacon.png"
+                                }
+                            ],
+                            "equipment": [
+                                {
+                                    "id": 404636,
+                                    "name": "slotted spoon",
+                                    "localizedName": "slotted spoon",
+                                    "image": "slotted-spoon.jpg"
+                                }
+                            ]
+                        },
+                        {
+                            "number": 11,
+                            "step": "Add beef back to the pot and dust with one tablespoon of flour. Toss to coat and sprinkle with salt and pepper.",
+                            "ingredients": [
+                                {
+                                    "id": 1102047,
+                                    "name": "salt and pepper",
+                                    "localizedName": "salt and pepper",
+                                    "image": "salt-and-pepper.jpg"
+                                },
+                                {
+                                    "id": 20081,
+                                    "name": "all purpose flour",
+                                    "localizedName": "all purpose flour",
+                                    "image": "flour.png"
+                                },
+                                {
+                                    "id": 23572,
+                                    "name": "beef",
+                                    "localizedName": "beef",
+                                    "image": "beef-cubes-raw.png"
+                                }
+                            ],
+                            "equipment": [
+                                {
+                                    "id": 404752,
+                                    "name": "pot",
+                                    "localizedName": "pot",
+                                    "image": "stock-pot.jpg"
+                                }
+                            ]
+                        },
+                        {
+                            "number": 12,
+                            "step": "Place in the preheated oven for 4-5 minutes. This will add a nice coating to the beef.",
+                            "ingredients": [
+                                {
+                                    "id": 23572,
+                                    "name": "beef",
+                                    "localizedName": "beef",
+                                    "image": "beef-cubes-raw.png"
+                                }
+                            ],
+                            "equipment": [
+                                {
+                                    "id": 404784,
+                                    "name": "oven",
+                                    "localizedName": "oven",
+                                    "image": "oven.jpg"
+                                }
+                            ],
+                            "length": {
+                                "number": 5,
+                                "unit": "minutes"
+                            }
+                        },
+                        {
+                            "number": 13,
+                            "step": "Remove pot from the oven and place back on the stove top.",
+                            "ingredients": [],
+                            "equipment": [
+                                {
+                                    "id": 404794,
+                                    "name": "stove",
+                                    "localizedName": "stove",
+                                    "image": "oven.jpg"
+                                },
+                                {
+                                    "id": 404784,
+                                    "name": "oven",
+                                    "localizedName": "oven",
+                                    "image": "oven.jpg"
+                                },
+                                {
+                                    "id": 404752,
+                                    "name": "pot",
+                                    "localizedName": "pot",
+                                    "image": "stock-pot.jpg"
+                                }
+                            ]
+                        },
+                        {
+                            "number": 14,
+                            "step": "Add red wine and deglaze the pan.",
+                            "ingredients": [
+                                {
+                                    "id": 14096,
+                                    "name": "red wine",
+                                    "localizedName": "red wine",
+                                    "image": "red-wine.jpg"
+                                }
+                            ],
+                            "equipment": [
+                                {
+                                    "id": 404645,
+                                    "name": "frying pan",
+                                    "localizedName": "frying pan",
+                                    "image": "pan.png"
+                                }
+                            ]
+                        },
+                        {
+                            "number": 15,
+                            "step": "Pour in beef broth and bring to a simmer over medium heat.",
+                            "ingredients": [
+                                {
+                                    "id": 6008,
+                                    "name": "beef broth",
+                                    "localizedName": "beef broth",
+                                    "image": "beef-broth.png"
+                                }
+                            ],
+                            "equipment": []
+                        },
+                        {
+                            "number": 16,
+                            "step": "Add carrot, onion and spice mixture to the pot, reduce heat and simmer covered for one hour.",
+                            "ingredients": [
+                                {
+                                    "id": 11124,
+                                    "name": "carrot",
+                                    "localizedName": "carrot",
+                                    "image": "sliced-carrot.png"
+                                },
+                                {
+                                    "id": 11282,
+                                    "name": "onion",
+                                    "localizedName": "onion",
+                                    "image": "brown-onion.png"
+                                }
+                            ],
+                            "equipment": [
+                                {
+                                    "id": 404752,
+                                    "name": "pot",
+                                    "localizedName": "pot",
+                                    "image": "stock-pot.jpg"
+                                }
+                            ],
+                            "length": {
+                                "number": 60,
+                                "unit": "minutes"
+                            }
+                        },
+                        {
+                            "number": 17,
+                            "step": "After one hour add pearl onions, mushrooms and bacon to the pot. Continue to simmer until beef is tender, about an additional 30 minutes.",
+                            "ingredients": [
+                                {
+                                    "id": 10111282,
+                                    "name": "pearl onion",
+                                    "localizedName": "pearl onion",
+                                    "image": "pearl-onions.png"
+                                },
+                                {
+                                    "id": 11260,
+                                    "name": "mushrooms",
+                                    "localizedName": "mushrooms",
+                                    "image": "mushrooms.png"
+                                },
+                                {
+                                    "id": 10123,
+                                    "name": "bacon",
+                                    "localizedName": "bacon",
+                                    "image": "raw-bacon.png"
+                                },
+                                {
+                                    "id": 23572,
+                                    "name": "beef",
+                                    "localizedName": "beef",
+                                    "image": "beef-cubes-raw.png"
+                                }
+                            ],
+                            "equipment": [
+                                {
+                                    "id": 404752,
+                                    "name": "pot",
+                                    "localizedName": "pot",
+                                    "image": "stock-pot.jpg"
+                                }
+                            ],
+                            "length": {
+                                "number": 90,
+                                "unit": "minutes"
+                            }
+                        },
+                        {
+                            "number": 18,
+                            "step": "With a slotted spoon remove solids and set aside. Increase heat and bring sauce to a rapid boil. In a small bowl mix together remaining tablespoon of flour with two tablespoons of sauce. Stir until smooth and no lumps remain.",
+                            "ingredients": [
+                                {
+                                    "id": 20081,
+                                    "name": "all purpose flour",
+                                    "localizedName": "all purpose flour",
+                                    "image": "flour.png"
+                                },
+                                {
+                                    "id": 0,
+                                    "name": "sauce",
+                                    "localizedName": "sauce",
+                                    "image": ""
+                                }
+                            ],
+                            "equipment": [
+                                {
+                                    "id": 404636,
+                                    "name": "slotted spoon",
+                                    "localizedName": "slotted spoon",
+                                    "image": "slotted-spoon.jpg"
+                                },
+                                {
+                                    "id": 404783,
+                                    "name": "bowl",
+                                    "localizedName": "bowl",
+                                    "image": "bowl.jpg"
+                                }
+                            ]
+                        },
+                        {
+                            "number": 19,
+                            "step": "Add mixture to the pot and stir constantly until sauce thickens.",
+                            "ingredients": [
+                                {
+                                    "id": 0,
+                                    "name": "sauce",
+                                    "localizedName": "sauce",
+                                    "image": ""
+                                }
+                            ],
+                            "equipment": [
+                                {
+                                    "id": 404752,
+                                    "name": "pot",
+                                    "localizedName": "pot",
+                                    "image": "stock-pot.jpg"
+                                }
+                            ]
+                        },
+                        {
+                            "number": 20,
+                            "step": "Remove bay leaves and thyme sprigs, discard.",
+                            "ingredients": [
+                                {
+                                    "id": 1012049,
+                                    "name": "fresh thyme",
+                                    "localizedName": "fresh thyme",
+                                    "image": "thyme.jpg"
+                                },
+                                {
+                                    "id": 2004,
+                                    "name": "bay leaves",
+                                    "localizedName": "bay leaves",
+                                    "image": "bay-leaves.jpg"
+                                }
+                            ],
+                            "equipment": []
+                        },
+                        {
+                            "number": 21,
+                            "step": "Add solids back to the pot and stir to coat evenly.",
+                            "ingredients": [],
+                            "equipment": [
+                                {
+                                    "id": 404752,
+                                    "name": "pot",
+                                    "localizedName": "pot",
+                                    "image": "stock-pot.jpg"
+                                }
+                            ]
+                        },
+                        {
+                            "number": 22,
+                            "step": "Serve warm over a bed of egg noodles or rice.",
+                            "ingredients": [
+                                {
+                                    "id": 20409,
+                                    "name": "egg noodles",
+                                    "localizedName": "egg noodles",
+                                    "image": "egg-noodles.jpg"
+                                },
+                                {
+                                    "id": 20444,
+                                    "name": "rice",
+                                    "localizedName": "rice",
+                                    "image": "uncooked-white-rice.png"
+                                }
+                            ],
+                            "equipment": []
+                        }
+                    ]
+                }
+            ],
+            "originalId": null,
+            "spoonacularScore": 86.29579162597656,
+            "spoonacularSourceUrl": "https://spoonacular.com/classic-boeuf-bourguignon-639571"
+        }
+    ]
+}
