@@ -1,13 +1,15 @@
 import 'dart:convert';
+import 'package:pilot/Components/Authentication/authentication.dart';
 import 'package:pilot/Components/Main/Adapters/Network/DTOs/recipe.dart';
 import 'package:pilot/Components/Network/network.dart';
 
 class AppRootNetwork {
   final NetworkProtocol network;
+  final AuthenticationProtocol auth;
   static const String baseUrlHost = "api.spoonacular.com";
   static const String spoonacularApiKey = "0793e5849b644a0d8cb4876de125a6d5";
 
-  AppRootNetwork({required this.network});
+  AppRootNetwork({required this.network, required this.auth});
 
   // Method to execute a GET request for random recipes using the provided parameters
   Future<List<Recipe>?> executeRandomRecipesGetRequest() async {
